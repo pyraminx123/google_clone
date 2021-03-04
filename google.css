@@ -1,0 +1,64 @@
+img {
+    object-position: center;
+    margin-top: 150px;
+}
+
+#search {
+    object-position: center;
+    margin: 10px;
+    position: relative;
+    padding: 0;
+}
+
+#icon {
+    position: absolute;
+    bottom: 53px;
+    left: 390px;
+    width: 30px;
+    height: 30px;
+}
+
+#search_bar {
+    border: none;
+    border-radius: 24px;
+    color: transparent;
+    color: black;
+    border: none;
+    border: 1px solid #dfe1e5;
+    padding: 10px;
+    width: 500px;
+    height: 20px;
+    margin: 0;
+    padding-left: 45px;
+    font-size: large;
+}
+
+
+.button {
+    background-color: #f8f9fa;
+    color: #3c4043;
+    border: none;
+    padding: 0 16px;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    margin: 11px 4px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 27px;
+    
+}
+
+.links {
+    color: rgba(0,0,0,0.87);
+    position: absolute;
+}
+
+#bilder {
+    top: 10px;
+    right: 20px;
+}
+
+#erweitert {
+    top: 10px;
+    right: 70px;
+}
